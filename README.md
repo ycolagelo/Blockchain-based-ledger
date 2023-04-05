@@ -14,13 +14,13 @@ The User information is hashed and stored into the PyChain Ledger.
 
 
 ## Validating the record using the drop down menu
-![Image](pychain2.png)
+![Image](Pychain2.png)
 
 ## Validating the record using the validation button.
 ![Image](pychain1.png)
 
 ## Blockchain Ledger
-![Image](pychain-ledger.png)
+![Image](Pychain-ledger.png)
 
 
 The Streamlit interface allows you to input data such as block index, timestamp, sender, receiver and amount, and it will display the hash value of the new block once it's added to the blockchain. The first block in the chain, known as the Genesis block, has a previous_hash of 0.
